@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Andrea Zaire
+- 👋 Hi, I’m Andrea Johnson
 - 👀 I’m interested in Web Design 
-- 🌱 I’m currently learning HTML/CSS, JavaScript, React and Python
+- 🌱 I’m currently certified in HTML/CSS, JavaScript, Java and Front-End Development
 - 💞️ I’m looking to build experience by building projects
 - 📫 How to reach me:
-Email: Aztechvegan@gmail.com
+Email: andrea99@usf.edu
 
 <!---
 aztechvegan/aztechvegan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
